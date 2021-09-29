@@ -1,0 +1,53 @@
+.bodymeioambiente{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsUxQxWDfWQbnsB3oCXguS72qLSj6GiLDz4w&usqp=CAU);
+    background-repeat:repeat;
+    background-size: 275px;
+  }
+  
+  .divmeioambiente{
+    background-color: rgba(75, 38, 4, 0.795);
+    margin-top: 7%;
+    margin-left: 16.3%;
+    margin-right: 16.4%;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: rgb(136, 136, 136);
+    margin-bottom: 7%;
+  }
+  
+  .titulosmeioambiente{
+  color: rgb(0, 0, 0);
+  }
+  
+  .explicaçãomeioambiente{
+    color: rgba(255, 255, 255, 0.925);
+  }
+  
+  .bodydesmatamento{
+    background-image: url(https://imagens.brasil.elpais.com/resizer/C2KC-yq2m_JR_KJEaoSYlaqU680=/414x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/H6ZF4MU3BVFENPVRW3JKOLFF3Y.jpg);
+  
+    background-repeat: repeat;
+    background-size: 275px;
+  }
+  
+  .divdesmatamento{
+    background-color: rgba(10, 10, 10, 0.795);
+    margin-top: 5%;
+    margin-left: 16.3%;
+    margin-right: 16.4%;
+    border-style:dotted;
+    border-width: 5px;
+    border-color: rgb(73, 73, 73);
+    margin-bottom: 5%;
+  }
+  
+  .titulosdesmatamento{
+    color: rgb(54, 54, 54);
+    text-align: center;
+    
+  }
+   
+  .explicaçãodesmatamento{
+    color: rgba(255, 255, 255, 0.925);
+  }
+  
